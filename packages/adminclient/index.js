@@ -1,0 +1,1 @@
+module.exports = (msg) => console.log(`hello ${msg || ''}!! I am from Admin Client !`);
